@@ -1,0 +1,47 @@
+$lan:#0CBAF5;
+$hui:#495060;
+a {
+    color: $hui;
+}
+
+.ivu-page-options,
+.ivu-page {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.ivu-tag-text {
+    a {
+        color: $hui;
+    }
+}
+
+.iv-btn-fff {
+    a {
+        color: #fff
+    }
+    .ivu-btn-text {
+        color: #fff
+    }
+}
+
+.y-drop-right-0 {
+    .ivu-select-dropdown {
+        right: 10px !important;
+        left: auto !important;
+    }
+}
+
+.color-lan {
+    color: $lan;
+}
+
+.y-img-100 {
+    display: inline-block;
+}
+
+.y-img-100 img {
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+}
